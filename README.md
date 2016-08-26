@@ -4,8 +4,10 @@ The freeDSP NANO is a cost-effective real-time audio signal processing solution 
 
 ## Features
 
-The freeDSP NANO board offers ……
-
+The freeDSP NANO board offers a choice of connectors for input : cinch or XLR balanced mono with loopthrough XLR.
+connectors for output: cinch or XLR balanced 2CH or 3pole screwterminals.
+The board has  output amplifiers up to 2V rms. the outputs are muted upon startup and when the supply voltage drops below 4V.
+a provison is made to add a volume control pot and a bicolor LED for signal indication purposes.
 For more information, please refer to the website www.freeDSP.cc and the documentation.  
 
 ## License
